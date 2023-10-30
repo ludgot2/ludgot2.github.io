@@ -1,3 +1,8 @@
+a {
+    color: darkolivegreen;
+    text-decoration: none;;
+  }
+
 header{
 
 background-color:lightgreen;
@@ -11,12 +16,13 @@ font-family: 'Young Serif', serif;
 
 }
 
-nav{
+nav{    
     background-color:beige;
     height: 50px;
     width: 100%;
 border-radius: 15px;
 margin-bottom: 5px;
+
 
 }
 
@@ -51,7 +57,13 @@ footer{
     background-color:rgb(134, 202, 134);
     height: 320px;
     width: 100%;
+    box-sizing: border-box;
 border-radius: 15px;
 margin-bottom: 5px;
-
+font-size: 20px;
+left: 0;
+right: 0;
+padding-left: 200px;
+padding-right: 200px;
+padding-top: 30px;
 }
